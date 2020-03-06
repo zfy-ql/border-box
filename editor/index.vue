@@ -73,7 +73,7 @@
           value: 'Border3'
         }, {
           label: '边框4',
-          value: 'Border4'
+          value: 'DvBorderBox6'
         }, {
           label: '边框5',
           value: 'Border5'

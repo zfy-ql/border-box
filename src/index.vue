@@ -90,11 +90,7 @@
 
 <style lang="stylus" rel="stylesheet/stylus" type="text/stylus" scoped>
   .component {
-    color: #46bd87;
-    height 300px
-    line-height 300px
-    padding 20px
-    text-align center
-    background-color #000
+    width : 100%;
+    height : 100%;
   }
 </style>

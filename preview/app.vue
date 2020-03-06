@@ -165,8 +165,11 @@ html, body {
 
     &.component {
       width: 720px;
+      .node {
+        width 300px
+        height 200px
+      }
     }
-
     &.editor {
       flex: 1;
 
